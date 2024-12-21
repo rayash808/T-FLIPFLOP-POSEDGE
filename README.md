@@ -36,7 +36,11 @@ From the above characteristic table, we can directly write the next state equati
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![image](https://github.com/user-attachments/assets/3811d219-1707-4dbf-918d-ba78d024d327)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![image](https://github.com/user-attachments/assets/2c5d8796-ecc8-4c24-8d37-93e96ea42b76)
 
 **RESULTS**
+Thus the program to implement a T flipflop using verilog and validating their
+ functionality using their functional tables is successfully completed.
